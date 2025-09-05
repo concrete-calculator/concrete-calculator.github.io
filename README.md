@@ -4,6 +4,8 @@ Professional [Concrete Calculator](https://concretecalculator.org) for accurate 
 ## what's a concrete calculator
 A concrete calculator is a professional online tool that helps you accurately calculate the amount of concrete needed for various shapes such as slabs, cylinders, tubes, curbs, and stairs. It calculates volume, estimates weight, and determines the number of bags needed, making your construction project planning more precise.
 
+![screenshot of concretecalculator.org](https://concretecalculator.org/images/screenshot.png)
+
 ## Slabs, Square Footings, or Walls
 ![Slabs, Square Footings, or Walls](https://concretecalculator.org/template/default/images/square_detail.webp)
 
