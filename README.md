@@ -8,16 +8,16 @@ A concrete calculator is a professional online tool that helps you accurately ca
 ![Slabs, Square Footings, or Walls](https://concretecalculator.org/template/default/images/square_detail.webp)
 
 ## Hole, Column, or Round Footings
-![Hole, Column, or Round Footings Calculator](https://concretecalculator.org/template/default/images/hole_detail.webp)
+![Hole, Column, or Round Footings](https://concretecalculator.org/template/default/images/hole_detail.webp)
 
 ## Circular Slab or Tube
-![Circular Slab or Tube Calculator](https://concretecalculator.org/template/default/images/tube_detail.webp)
+![Circular Slab or Tube](https://concretecalculator.org/template/default/images/tube_detail.webp)
 
 ## Curb and Gutter Barrier
-![Curb and Gutter Barrier Calculator](https://concretecalculator.org/template/default/images/curb_detail.webp)
+![Curb and Gutter Barrier](https://concretecalculator.org/template/default/images/curb_detail.webp)
 
 ## Stairs
-![Stairs Calculator](https://concretecalculator.org/template/default/images/stairs_detail.webp)
+![Stairs](https://concretecalculator.org/template/default/images/stair_detail.webp)
 
 ## Why do you need a concrete calculator?
 Using our concrete calculator ensures: 1) Professional, accurate calculations to avoid material waste; 2) Significant time savings with quick results; 3) A detailed calculation process to understand every data point; 4) Support for multiple unit systems; 5) Tracking of calculation history for easy reference. This tool combines all these features to make your project planning efficient.
