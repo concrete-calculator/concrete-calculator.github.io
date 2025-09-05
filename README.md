@@ -4,19 +4,19 @@ Professional [Concrete Calculator](https://concretecalculator.org) for accurate 
 ## what's a concrete calculator
 A concrete calculator is a professional online tool that helps you accurately calculate the amount of concrete needed for various shapes such as slabs, cylinders, tubes, curbs, and stairs. It calculates volume, estimates weight, and determines the number of bags needed, making your construction project planning more precise.
 
-![screenshot of concretecalculator.org](https://concretecalculator.org/images/screenshot.png)
+![screenshot of concretecalculator.org](https://raw.githubusercontent.com/concrete-calculator/concretecalculator.org/refs/heads/main/images/screenshot.png)
 
 ## Slabs, Square Footings, or Walls
-![Slabs, Square Footings, or Walls](https://concretecalculator.org/template/default/images/square_detail.webp)
+![Slabs, Square Footings, or Walls](https://raw.githubusercontent.com/concrete-calculator/concretecalculator.org/refs/heads/main/images/square_detail.webp)
 
 ## Hole, Column, or Round Footings
-![Hole, Column, or Round Footings](https://concretecalculator.org/template/default/images/hole_detail.webp)
+![Hole, Column, or Round Footings](https://raw.githubusercontent.com/concrete-calculator/concretecalculator.org/refs/heads/main/images/hole_detail.webp)
 
 ## Circular Slab or Tube
-![Circular Slab or Tube](https://concretecalculator.org/template/default/images/tube_detail.webp)
+![Circular Slab or Tube](https://raw.githubusercontent.com/concrete-calculator/concretecalculator.org/refs/heads/main/images/tube_detail.webp)
 
 ## Curb and Gutter Barrier
-![Curb and Gutter Barrier](https://concretecalculator.org/template/default/images/curb_detail.webp)
+![Curb and Gutter Barrier](https://raw.githubusercontent.com/concrete-calculator/concretecalculator.org/refs/heads/main/images/curb_detail.webp)
 
 ## Stairs
 ![Stairs](https://concretecalculator.org/template/default/images/stair_detail.webp)
